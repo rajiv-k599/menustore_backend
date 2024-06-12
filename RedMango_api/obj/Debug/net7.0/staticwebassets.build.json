@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "zeDljZ8m63os2tnGRyFADxxH/TojNHRLZAee4C+eT3k=",
+  "Source": "RedMango_api",
+  "BasePath": "_content/RedMango_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RedMango_api\\wwwroot",
+      "Source": "RedMango_api",
+      "ContentRoot": "D:\\rajiv dotnet\\RedMango_api\\RedMango_api\\wwwroot\\",
+      "BasePath": "_content/RedMango_api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\rajiv dotnet\\RedMango_api\\RedMango_api\\wwwroot\\images\\2fc70c80-5ab9-4cff-8263-fa66ce230961.jpg",
+      "SourceId": "RedMango_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\rajiv dotnet\\RedMango_api\\RedMango_api\\wwwroot\\",
+      "BasePath": "_content/RedMango_api",
+      "RelativePath": "images/2fc70c80-5ab9-4cff-8263-fa66ce230961.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2fc70c80-5ab9-4cff-8263-fa66ce230961.jpg"
+    },
+    {
+      "Identity": "D:\\rajiv dotnet\\RedMango_api\\RedMango_api\\wwwroot\\images\\de148291-ee34-4c60-beac-788717e247ba.jpg",
+      "SourceId": "RedMango_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\rajiv dotnet\\RedMango_api\\RedMango_api\\wwwroot\\",
+      "BasePath": "_content/RedMango_api",
+      "RelativePath": "images/de148291-ee34-4c60-beac-788717e247ba.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\de148291-ee34-4c60-beac-788717e247ba.jpg"
+    },
+    {
+      "Identity": "D:\\rajiv dotnet\\RedMango_api\\RedMango_api\\wwwroot\\images\\ec1e4d2b-b93e-4679-b63a-1a38820f5b28.jpg",
+      "SourceId": "RedMango_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\rajiv dotnet\\RedMango_api\\RedMango_api\\wwwroot\\",
+      "BasePath": "_content/RedMango_api",
+      "RelativePath": "images/ec1e4d2b-b93e-4679-b63a-1a38820f5b28.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ec1e4d2b-b93e-4679-b63a-1a38820f5b28.jpg"
+    }
+  ]
+}
